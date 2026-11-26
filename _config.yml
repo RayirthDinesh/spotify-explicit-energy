@@ -1,0 +1,5 @@
+title: Turn It Up?
+description: Are explicit Spotify tracks more energetic, and can we predict explicit content from audio? A DSC 80 project at UCSD.
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
